@@ -3,9 +3,8 @@ using System;
 namespace Teste.GFT.src
 {
     public class Pessoa
-    {
-        
-
+    
+    {    
         private string Name {get; set;}
         private DateTime DataNascimento{get; set;}
         private double Altura{get; set;}

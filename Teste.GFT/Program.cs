@@ -7,8 +7,7 @@ namespace Teste.GFT
     {
         static void Main(string[] args)
         {
-            Pessoa pessoa = new Pessoa();
-            Console.WriteLine(pessoa);
+            
 
 
             Console.WriteLine("Digite em que turno você trabalha");
