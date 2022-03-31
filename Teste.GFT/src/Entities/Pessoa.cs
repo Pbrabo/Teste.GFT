@@ -24,16 +24,13 @@ namespace Teste.GFT.src
 
         public int CalcularIdade()
         {
-            int idade = 0;
-            if (DataNascimento != null)
-            {
+                int idade = 0;
                 idade = DateTime.Now.Year - DataNascimento.Year;
                 if (DataNascimento.Date > DateTime.Now.AddYears(-idade))
                 {
                     idade = idade - 1;
                 }
-            }
-
+            
             return idade;
         }
 
