@@ -1,0 +1,16 @@
+C:\workspace\Teste.GFT\bin\Debug\net5.0\Teste.GFT.exe
+C:\workspace\Teste.GFT\bin\Debug\net5.0\Teste.GFT.deps.json
+C:\workspace\Teste.GFT\bin\Debug\net5.0\Teste.GFT.runtimeconfig.json
+C:\workspace\Teste.GFT\bin\Debug\net5.0\Teste.GFT.runtimeconfig.dev.json
+C:\workspace\Teste.GFT\bin\Debug\net5.0\Teste.GFT.dll
+C:\workspace\Teste.GFT\bin\Debug\net5.0\ref\Teste.GFT.dll
+C:\workspace\Teste.GFT\bin\Debug\net5.0\Teste.GFT.pdb
+C:\workspace\Teste.GFT\obj\Debug\net5.0\Teste.GFT.csproj.AssemblyReference.cache
+C:\workspace\Teste.GFT\obj\Debug\net5.0\Teste.GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Teste.GFT\obj\Debug\net5.0\Teste.GFT.AssemblyInfoInputs.cache
+C:\workspace\Teste.GFT\obj\Debug\net5.0\Teste.GFT.AssemblyInfo.cs
+C:\workspace\Teste.GFT\obj\Debug\net5.0\Teste.GFT.csproj.CoreCompileInputs.cache
+C:\workspace\Teste.GFT\obj\Debug\net5.0\Teste.GFT.dll
+C:\workspace\Teste.GFT\obj\Debug\net5.0\ref\Teste.GFT.dll
+C:\workspace\Teste.GFT\obj\Debug\net5.0\Teste.GFT.pdb
+C:\workspace\Teste.GFT\obj\Debug\net5.0\Teste.GFT.genruntimeconfig.cache
